@@ -57,7 +57,7 @@ MarkupSafe==1.1.1
 matplotlib==3.3.1
 mistune==0.8.4
 mxnet==1.7.0.post1
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat==5.0.7
 networkx==2.4
 notebook==6.1.5
